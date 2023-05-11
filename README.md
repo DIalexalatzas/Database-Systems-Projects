@@ -1,4 +1,4 @@
-## <b>System Implementation of Data Bases 1, 2.
+## <b>Implementation Database Systems 1, 2.
 
 ### <b> Authors
 - Alex Alatzas      sdi1900005
